@@ -1,7 +1,7 @@
 baseURL: https://comoyomalove.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Naz's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -21,8 +21,8 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
+  tr:
+    languageName: Türkçe
     weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -92,7 +92,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: flase
       # Share post on different social media
       shareButtons:
         facebook: true
