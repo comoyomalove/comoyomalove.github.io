@@ -75,7 +75,7 @@ params:
 
     # Enable dark theme
     darkMode:
-      enable: true
+      enable: false
       services:
         darkreader:
           defaultColorScheme: system # options are 'system', 'dark', 'light'
@@ -88,7 +88,7 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
@@ -179,15 +179,15 @@ params:
 
     # specify whether you want to show Table of Contents in reading page
     toc:
-      enable: true
+      enable: false
 
     # Show tags under the post title
     tags:
-      enable: true
+      enable: false
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
-      enable: true
+      enable: false
       # # If you want to use different country flag for a language, specify them here.
       # flagOverwrites:
       #   - languageCode: en
