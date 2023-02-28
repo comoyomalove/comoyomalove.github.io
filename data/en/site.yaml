@@ -22,7 +22,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: John's Blog
+  title: Naz's Blog
   type: website
   description: Portfolio and personal blog of Naz Akgül.
   image: images/author/john.png
