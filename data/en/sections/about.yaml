@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: 'Game Designer'
 # your company information
 company:
   name: Example Co.
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'Diligent video-game design student with a background in animation film-making and a devoted niche for producing artistic and meaningful VR experiences... Things that define what I do are: Interaction, mechanics, narrative & spatial-sound design, conceptualization and documentation, gamification, 360° media production, user-journey story-boarding, quick prototyping & digital storytelling... If you want to get to know me better, just say hi!'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -30,7 +30,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/comoyomalove"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"
@@ -38,7 +38,7 @@ socialLinks:
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
-  url: "#"
+  url: "https://www.linkedin.com/in/nazakgul/"
 
 - name: Twitter
   icon: "fab fa-twitter"
@@ -79,17 +79,17 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
+  name: Unity
   percentage: 85
   color: blue
 
 - type: soft-skill-indicator
-  name: Team Work
+  name: VR Production
   percentage: 90
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
+  name: Game Design
   percentage: 85
   color: orange
 
