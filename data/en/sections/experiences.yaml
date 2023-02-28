@@ -2,9 +2,9 @@
 section:
   name: Experiences
   id: experiences
-  enable: true
+  enable: flase
   weight: 4
-  showOnNavbar: true
+  showOnNavbar: flase
   # Can optionally hide the title in sections
   # hideTitle: true 
 
