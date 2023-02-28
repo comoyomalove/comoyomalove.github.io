@@ -12,9 +12,9 @@ contactInfo:
   linkedin: nazakgul
 
 # some summary about what you do
-# summary:
-#   - I am a Designer
-#   - I am a Game Designer
-#   - I love Jewelry
-#   - I work on indie and VR games
-#   - I love to work with some fun projects
+summary:
+  - I am a Designer
+  - I am a Game Designer
+  - I love Jewelry
+  - I work on indie and VR games
+  - I love to work with some fun projects
