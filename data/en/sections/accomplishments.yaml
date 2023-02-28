@@ -2,9 +2,9 @@
 section:
   name: Accomplishments
   id: accomplishments
-  enable: flase
+  enable: false
   weight: 9
-  showOnNavbar: flase
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
